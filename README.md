@@ -2,7 +2,7 @@
 
 ## Universidad Politécnica Salesiana (UPS)  
 **Carrera:** Computacion  
-**Periodo:** 66
+**Periodo:** 66  
 **Estudiante:** Andy Fabricio Abad Freire
 
 ## Introducción al Cuarteto de Anscombe
