@@ -1,5 +1,6 @@
 # Cuarteto de Anscombe
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xScveNFCW3xZWdROhdo491JguVTqCngLFA&s)
 ## Universidad Politécnica Salesiana (UPS)  
 **Carrera:** Computacion  
 **Periodo:** 66  
