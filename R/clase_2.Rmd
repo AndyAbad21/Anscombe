@@ -75,3 +75,8 @@ datasaurus_dozen %>%
        y = "y") +
   theme_minimal()
 ```
+
+##Regresion Lineal hecha en clase
+```{r out.width = "50%"}
+knitr::include_graphics("/home/andy/Escritorio/Universidad/P66/Mineria_D/practica1/R/regresion.jpeg")
+```
