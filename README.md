@@ -1,9 +1,9 @@
 # Cuarteto de Anscombe
 
 ## Universidad Politécnica Salesiana (UPS)  
-**Carrera:** [Computacion]  
-**Periodo:** [66]  
-**Estudiante:** [Andy Fabricio Abad Freire]
+**Carrera:** Computacion  
+**Periodo:** 66
+**Estudiante:** Andy Fabricio Abad Freire
 
 ## Introducción al Cuarteto de Anscombe
 
