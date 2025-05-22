@@ -1,6 +1,6 @@
 ---
 title: "Clase_2 DataSaurus 2025 con compilador R Markdown"
-author: "mateo"
+author: "Andy Fabricio Abad Freire"
 date: "2025-04-03"
 output:
   html_document: default
